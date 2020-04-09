@@ -26,10 +26,7 @@
     "config": {
         "bin-dir": "bin",
         "discard-changes": true,
-        "sort-packages": true,
-        "platform": {
-            "php": "7.0.8"
-        }
+        "sort-packages": true
     },
     "require": {
         "php": ">=7.0.8",
@@ -41,7 +38,7 @@
         "drupal/core-composer-scaffold": "^8.8.0",
         "drupalcommerce/demo_commerce": "dev-master",
         "oomphinc/composer-installers-extender": "^1.1",
-        "platformsh/config-reader": "^1.0",
+        "platformsh/config-reader": "^2.3",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3",
         "zaporylie/composer-drupal-optimizations": "^1.0"
