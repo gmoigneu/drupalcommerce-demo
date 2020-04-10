@@ -1,0 +1,165 @@
+bf54c245-b31e-40c1-9c38-a5c604cc38fe:
+  type: default
+  status: '1'
+  title: 'Night Owl Canteen'
+  body:
+    value: "<div><p>16.9 oz double-walled stainless steel thermal bottle.&nbsp;</p><p><strong>Features:&nbsp;</strong><br></p><p><span>Magnetic Cup / Lid</span></p></div>\r\n"
+    summary: '16.9 oz double-walled stainless steel thermal bottle.'
+    format: basic_html
+  field_brand: 7040d578-f10e-4fc1-9a99-dafc0dc24abc
+  field_product_categories:
+    - 80386e84-c23e-4c24-ad9a-482339984ea1
+  variations:
+    e52a9e42-a5cb-4581-88ec-ea94598fdc16:
+      type: simple
+      sku: NIGHT-OWL-CANTEEN
+      title: 'Night Owl Canteen'
+      price:
+        number: '34.95'
+        currency_code: USD
+      status: '1'
+      field_images:
+        -
+          alt: 'Night Owl Canteen 1'
+          filename: "2V1A9609_2048x.jpg"
+        -
+          alt: 'Night Owl Canteen 2'
+          filename: "Canteen_1_2048x.jpg"
+      weight:
+        number: '0.500000'
+        unit: kg
+219dd2d6-c968-4eea-a808-51fdf3ed9927:
+  type: default
+  status: '1'
+  title: 'Enamel Camping Mug'
+  body:
+    value: "<div><p>James Coffee Co. Enamel Camping Mug - Black. 16 oz. Hand wash only. Not microwave safe. </p></div>\r\n"
+    summary: '16.9 oz double-walled stainless steel thermal bottle.'
+    format: basic_html
+  field_brand: 7040d578-f10e-4fc1-9a99-dafc0dc24abc
+  field_product_categories:
+    - 80386e84-c23e-4c24-ad9a-482339984ea1
+  variations:
+    996ed75e-7693-47fa-98b1-741282d8d1c3:
+      type: simple
+      sku: ENAMEL-MUG
+      title: 'Enamel Camping Mug'
+      price:
+        number: '16.95'
+        currency_code: USD
+      status: '1'
+      field_images:
+        -
+          alt: 'Enamel Camping Mug 1'
+          filename: "JamesCoffeeBlackEnamelMug_2048x.jpg"
+        -
+          alt: 'Enamel Camping Mug 2'
+          filename: "BlackEnamelMugJamesCoffee_2048x.jpg"
+      weight:
+        number: '0.500000'
+        unit: kg
+a24b6f4c-8c56-46a3-94c8-b6e4b5c197cc:
+  type: default
+  status: '1'
+  title: '12 oz Tumbler'
+  body:
+    value: "<div><p>12 oz double-walled stainless steel thermal tumbler. Care instructions: Hand wash recommended (do not soak or submerge) Do not clean with bleach or cleansers containing chlorine. Not suitable for microwave, cooking, or freezing</p></div>\r\n"
+    summary: '16.9 oz double-walled stainless steel thermal bottle.'
+    format: basic_html
+  field_brand: 7040d578-f10e-4fc1-9a99-dafc0dc24abc
+  field_product_categories:
+    - 80386e84-c23e-4c24-ad9a-482339984ea1
+  variations:
+    2a13e7b3-eadd-4295-85e0-124d45249247:
+      type: simple
+      sku: 12OZ-TUMBLER-ORANGE
+      title: '12 oz Tumbler Orange'
+      price:
+        number: '24.95'
+        currency_code: USD
+      status: '1'
+      field_images:
+        -
+          alt: '12 oz Tumbler Orange 1'
+          filename: "2V1A3964_websize_2048x.jpg"
+        -
+          alt: '12 oz Tumbler Orange 2'
+          filename: "2V1A4013_websize_2048x.jpg"
+        -
+          alt: '12 oz Tumbler Orange 3'
+          filename: "2V1A4309_websize_2048x.jpg"
+      weight:
+        number: '0.500000'
+        unit: kg
+    8b528640-6d15-4440-baf7-09b1c5e6539d:
+      type: simple
+      sku: 12OZ-TUMBLER-BLACK
+      title: '12 oz Tumbler Black'
+      price:
+        number: '24.95'
+        currency_code: USD
+      status: '1'
+      field_images:
+        -
+          alt: '12 oz Tumbler Black 1'
+          filename: "2V1A3964_websize_2048x.jpg"
+        -
+          alt: '12 oz Tumbler Black 2'
+          filename: "2V1A4013_websize_2048x.jpg"
+        -
+          alt: '12 oz Tumbler Black 3'
+          filename: "2V1A4309_websize_2048x.jpg"
+      weight:
+        number: '0.500000'
+        unit: kg
+    ca54b82b-5b80-437b-a061-e03e4a74a28d:
+      type: simple
+      sku: 12OZ-TUMBLER-WHITE
+      title: '12 oz Tumbler White'
+      price:
+        number: '24.95'
+        currency_code: USD
+      status: '1'
+      field_images:
+        -
+          alt: '12 oz Tumbler White 1'
+          filename: "2V1A3964_websize_2048x.jpg"
+        -
+          alt: '12 oz Tumbler White 2'
+          filename: "2V1A4013_websize_2048x.jpg"
+        -
+          alt: '12 oz Tumbler White 3'
+          filename: "2V1A4309_websize_2048x.jpg"
+      weight:
+        number: '0.500000'
+        unit: kg
+66f8a07e-96cb-4e69-8c95-8ad44de58b80:
+  type: default
+  status: '1'
+  title: 'Arch Logo Diner Mug'
+  body:
+    value: "<div><p>James Coffee Co. Enamel Camping Mug - Black. 16 oz. Hand wash only. Not microwave safe. </p></div>\r\n"
+    summary: '16.9 oz double-walled stainless steel thermal bottle.'
+    format: basic_html
+  field_brand: 7040d578-f10e-4fc1-9a99-dafc0dc24abc
+  field_product_categories:
+    - 80386e84-c23e-4c24-ad9a-482339984ea1
+  variations:
+    2c49de72-2061-41b2-b2ca-8aa767da8f8b:
+      type: simple
+      sku: ARCHLOGO-MUG
+      title: 'Arch Logo Diner Mug'
+      price:
+        number: '14.95'
+        currency_code: USD
+      status: '1'
+      field_images:
+        -
+          alt: 'Arch Logo Diner Mug 1'
+          filename: "2V1A3324-Edit_websize_9237b107-5ce6-44a7-ab70-41543bb45b83_2048x.jpg"
+        -
+          alt: 'Arch Logo Diner Mug 2'
+          filename: "2V1A3316_websize_2048x.jpg"
+      weight:
+        number: '0.500000'
+        unit: kg

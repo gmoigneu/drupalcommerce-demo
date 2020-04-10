@@ -55,7 +55,8 @@ class ContentImporter {
     // It is necessary to hardcode the available entity types/bundles to ensure
     // the right import order, because there is no dependency tracking.
     $available_content = [
-      ['commerce_product', 'clothing'],
+      ['commerce_product', 'mugs'],
+      ['commerce_product', 'coffee'],
     ];
     foreach ($available_content as $keys) {
       $this->importAll($keys[0], $keys[1]);

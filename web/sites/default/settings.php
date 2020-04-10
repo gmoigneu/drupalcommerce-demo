@@ -41,3 +41,14 @@ if (file_exists($app_root . '/' . $site_path . '/settings.platformsh.php')) {
 if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
   include $app_root . '/' . $site_path . '/settings.local.php';
 }
+$databases['default']['default'] = array (
+  'database' => 'commerce',
+  'username' => 'commerce',
+  'password' => 'commerce',
+  'prefix' => '',
+  'host' => 'localhost',
+  'port' => '3306',
+  'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
+  'driver' => 'mysql',
+);
+$settings['hash_salt'] = 'ejAMNcad1-M3U6Dz4EUJdwF2wg1yaDWGv6UkOUmHOi3y2fxy5O4HjKlEyVKxvjqTq5Fk3chULA';

@@ -1,0 +1,10 @@
+80386e84-c23e-4c24-ad9a-482339984ea1:
+  vid: product_categories
+  name: Mugs
+  weight: '18'
+  depth_level: '2'
+a0fd6206-6878-4d81-a8dd-bd8415badb67:
+  vid: product_categories
+  name: Coffee
+  weight: '1'
+  depth_level: '1'
