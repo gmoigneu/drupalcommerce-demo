@@ -1,0 +1,7 @@
+name: Platform.sh Commerce Demo
+type: module
+description: 'Provides demo content for Drupal Commerce.'
+package: Commerce (custom)
+core: 8.x
+dependencies:
+  - commerce_demo
